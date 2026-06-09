@@ -1,0 +1,5 @@
+hyperparametre,spearman_val_mse
+lr,-0.30672782055967057
+clip_value,-0.09069937854454248
+dropout_rate,-0.014709474318115506
+weight_decay,-0.009607295034341124

@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# PyTorch checkpoints generated during experiments
+models/*.pth
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

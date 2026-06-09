@@ -1,0 +1,7 @@
+hyperparametre,std_des_moyennes_val_mse
+hidden_dims,0.03239216811537252
+dropout_rate,0.020679609371317288
+lr,0.0022148959145884394
+weight_decay,0.0011898353874802206
+activation,0.0008966039573217393
+clip_value,
